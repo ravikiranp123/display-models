@@ -1,0 +1,1 @@
+https://cdn.jsdelivr.net/gh/ravikiranp123/display-models@master/Elevations/SampleModel/SampleElevation.glb
